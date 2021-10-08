@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeltPro
 - 👀 I’m interested in responsive Web design
-- 🌱 I’m currently learning html, CSS, Java script and React... Basically the FreeCodeCamp curriculum! my target is to contribute on many open source projects. Any help along the way is greatly appreciated
+- 🌱 I’m currently learning html, CSS, Java script and React... basically the FreeCodeCamp curriculum! my target is to contribute on many open source projects. Any help along the way is greatly appreciated
 - 💞️ I’m looking to collaborate on project to develop my coding skills and learn from/help other developers
 - 📫 How to reach me: A twitter account will be coming soon 
 
